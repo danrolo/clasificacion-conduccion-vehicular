@@ -1,5 +1,7 @@
 # Algoritmo de clasificación de conducción vehicular
 > El resultado de este proyecto es la elaboración de un algoritmo para analizar un _dataset_ de conducción vehicular (a partir de datos de sensores), y categorizar el estilo de conducción en prudente / imprudente.
+>
+> Proyecto de **tesis** para obtener el grado de Licenciado en Sistemas Computacionales.
 
 ## Descripción
 <p>Las ciudades inteligentes poseen sistemas de transportación que entre sus ventajas tienen valerse de tecnología para mejorar la comodidad y seguridad de los pasajeros. Para ello utilizan <em>datasets</em> conteniendo datos derivados de sensores que son procesados mediante algoritmos para poder ofrecer información útil a sistemas expertos.</p>
@@ -16,3 +18,5 @@
   + NumPy
   + MySQL Connector
 
+## Documento de la tesis
+Para leer el documento de tesis del presente proyecto, haga clic [aquí](Tesis-LSC.pdf).

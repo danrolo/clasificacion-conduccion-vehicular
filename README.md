@@ -21,6 +21,7 @@
 ## Archivos del proyecto
 Para leer el documento de tesis del presente proyecto, haga clic [aquí](Tesis-LSC.pdf).
 
-Archivo **.sql** en donde se encuentran almacenados los registros del _dataset_ de conducción vehicular. 👉 [dataset_conduccion_vehicular.sql](dataset_conduccion_vehicular.sql).
+Archivo **.sql** en donde se encuentran almacenados los registros del _dataset_ de conducción vehicular.  
+👉 [dataset_conduccion_vehicular.sql](dataset_conduccion_vehicular.sql).
 
 Código fuente del algoritmo de clasificación de conducción vehicular. 👉 [clasificacion.py](clasificacion.py).
